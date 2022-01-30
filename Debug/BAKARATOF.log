@@ -1,0 +1,3 @@
+﻿  BAKARATOF.cpp
+C:\Users\Dom\Desktop\Studia\Informatyka\PROJEKT\BAKARATOF\BAKARATOF.cpp(13,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BAKARATOF.vcxproj -> C:\Users\Dom\Desktop\Studia\Informatyka\PROJEKT\BAKARATOF\Debug\BAKARATOF.exe
