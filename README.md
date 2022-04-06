@@ -19,11 +19,10 @@ The performer describes the tasks performed by him. A description of the files o
 My task was to make a card game. To create this game I needed to build a simple engine that draws pseudorandom numbers with random characters. Then creating algorithm assigning their values to numbers. Then summing their values and writing on the screen, which of the players won, and returning the possible winnings to the player if his bet was placed correctly.
 The game engine consists of drawing a given number and assigning each number to a card along with calculating its value.  
 
-- <iostream> - is used, among other things, to handle input and
-- output
-- <string> - used for writing the name and character of the cards 
-- <windows.h> - used to generate a sound if a wrong value is entered in a menu
-- <random> - for generating pseudorandom numbers
+- "<iostream>" - is used, among other things, to handle input and output
+- "<string>" - used for writing the name and character of the cards 
+- "<windows.h>" - used to generate a sound if a wrong value is entered in a menu
+- "<random>" - for generating pseudorandom numbers
 
 
 
